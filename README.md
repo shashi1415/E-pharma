@@ -1,7 +1,7 @@
 # E-pharma
-# Medi-Mitra E-Pharmacy Application
+#  E-Pharmacy Application
 
-This project is a full-stack e-pharmacy web application called **Medi-Mitra**. It provides users with a seamless experience to browse, purchase, and learn about healthcare products and services online.
+This project is a full-stack e-pharmacy web application called **e-pharma**. It provides users with a seamless experience to browse, purchase, and learn about healthcare products and services online.
 
 ## Features
 - User-friendly interface for browsing and searching products
